@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: url("imgs/gg.jpg") ;
+	background-size: cover;
+}
+.login-box{
+	width: 320px;
+	height: 420px;
+	background: rgba(0,0,0,0.5);
+	color: white;
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	padding: 80px 40px;
+
+} 
+
+#avatar{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	margin-left: 106px;
+	margin-top: -20px;
+}
+h1{
+	text-align: center;
+
+}
+#btn{
+margin-top: 30px;
+}
+.login-box p{
+	font-weight: bold;	
+}
+.login-box input{
+	width: 100%;
+	margin-bottom: 20px;
+
+}
+.login-box input[type="text"] , input[type="Password"]{
+	border:none;
+	border-bottom: 1px solid white;
+	background:transparent;
+	height: 40px;
+	color:white;
+	font-size: 20px;
+	outline: none;
+
+}
+.login-box input[type="button"]{
+	height: 40px;
+	background: red;
+	color:white;
+	font-size: 20px;
+	font-weight: bold;
+}

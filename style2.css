@@ -1,0 +1,110 @@
+#inp1{
+	margin-left: 150px;
+	margin-top: 80px;
+}
+#inp2{
+	margin-top: -87px;
+	margin-left: 600px;
+}
+#inp3{
+	margin-top: -91px;
+	margin-left: 1100px;
+
+}
+#late{
+	width: 300px;
+	height: 300px;
+	margin-top: 100px;
+	margin-left: 110px;
+}
+#notLate{
+	width: 300px;
+	height: 300px;
+	margin-top: 100px;
+	margin-left: 110px;
+}
+#rbk{
+	width: 200px;
+	height: 150px;
+}
+
+	
+
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-image: url(https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+	background-size: cover;
+	
+}
+#gal{
+	margin-left: 500px;
+	margin-top: -60px;
+}
+#staff{
+	margin-left: 700px;
+	margin-top: -50px;
+}
+
+#btn1{
+
+	background: rgba(0,0,0,0.5);
+	color: white;
+}
+#btn2{
+	background: rgba(0,0,0,0.5);
+	color: white;
+	width: 70px;
+}
+#drunk{
+	width: 300px;
+	height: 300px;
+	margin-top: 100px;
+	margin-left: 130px;
+}
+#remember{
+	width: 300px;
+	height: 300px;
+	margin-top: 100px;
+	margin-left: 130px;
+}
+#arabic{
+	width: 300px;
+	height: 300px;
+	margin-top: 100px;
+	margin-left: 160px;
+}
+#awsome{
+	width: 300px;
+	height: 300px;
+	margin-top: 100px;
+	margin-left: 160px;
+}
+
+#red{
+	color: red;
+	background-color: black;
+
+	}
+#yellow{
+	color: #e6e600;
+
+}
+#blue{
+	color: blue;
+
+}
+#btnlate{
+	background: rgba(0,0,0,0.5);
+	color: white;
+}
+#btnlate2{
+	background: rgba(0,0,0,0.5);
+	color: white;
+}
+#btnlate3{
+	background: rgba(0,0,0,0.5);
+	color: white;
+}
